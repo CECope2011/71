@@ -1,0 +1,36 @@
+#contact iframe
+{
+    width: 100%;
+}
+.T1{
+    border: 1px solid red;
+} 
+.T1 img{
+    width: 100%;
+
+}
+.T1 h5,.T1 p{
+    margin: 20px;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+border-radius: 20px;
+margin-bottom: 15px;
+}
+.movie_head i{
+float: right;
+}
+.movie_text span{
+    color: maroon;
+}
+.book{
+    margin-bottom: 20px;
+
+}
+#contact iframe{
+ width: 100%;   
+}
+
+
+
